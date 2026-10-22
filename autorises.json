@@ -1,1 +1,8 @@
-{"version":1,"autorises":[]}
+{
+  "version": 1,
+  "autorises": [
+    {"code": "RAM-7K3F-9QX2-M4TD", "nom": "Marc"},
+    {"code": "RAM-2B8W-5NLC-R9HE", "nom": "Léa"},
+    {"code": "RAM-2B8W-5NLC-R999", "nom": "Manu"}
+  ]
+}
